@@ -1,6 +1,28 @@
+img {
+    width: 100%; 
+height: auto;
+    border-radius: 50%;
+}
+
+h1 {
+    color: goldenrod;
+    }
+
+body{
+    background-color: powderblue;
+   }
+  
+hr {
+    border-style: none; 
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    width: 30%;
+  }
+ 
 table, td {
     border-collapse: collapse;
-    border: 2px solid rgb(140 140 140);
+    /* border: 2px solid rgb(140 140 140); */
     font-family: sans-serif;
     font-size: 0.8rem;
     letter-spacing: 1px;
@@ -19,7 +41,7 @@ table, td {
   
   th,
   td {
-    border: 1px solid rgb(160 160 160);
+    /* border: 1px solid rgb(160 160 160); */
     padding: 8px 10px;
   }
   
